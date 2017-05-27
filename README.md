@@ -1,2 +1,2 @@
 # hello-world
-Ist time on GitHub.
+Ist time on this GetHub platform.
